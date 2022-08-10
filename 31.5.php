@@ -44,7 +44,7 @@
 // Từ mảng dưới đây, phân loại member theo năm sinh trong khoảng từ 90 -> 95 và từ 96 -> 20
 
 $members = [
-    "Tung" => 1994,
+    "Tung" => 1949,
     "Binh" => 1997,
     "Ly" => 1995,
     "Thao" => 1998,
